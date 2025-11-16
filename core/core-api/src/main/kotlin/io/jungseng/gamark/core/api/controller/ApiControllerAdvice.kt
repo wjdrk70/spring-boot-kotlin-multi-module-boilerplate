@@ -1,8 +1,8 @@
 package io.jungseng.gamark.core.api.controller
 
-import io.dodn.commerce.core.support.error.CoreException
-import io.dodn.commerce.core.support.error.ErrorType
-import io.dodn.commerce.core.support.response.ApiResponse
+import io.jungseng.gamark.core.support.error.CoreException
+import io.jungseng.gamark.core.support.error.ErrorType
+import io.jungseng.gamark.core.support.response.ApiResponse
 import org.slf4j.Logger
 import org.slf4j.LoggerFactory
 import org.springframework.boot.logging.LogLevel

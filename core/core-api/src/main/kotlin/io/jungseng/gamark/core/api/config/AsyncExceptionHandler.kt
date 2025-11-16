@@ -1,6 +1,6 @@
 package io.jungseng.gamark.core.api.config
 
-import io.dodn.commerce.core.support.error.CoreException
+import io.jungseng.gamark.core.support.error.CoreException
 import org.slf4j.LoggerFactory
 import org.springframework.aop.interceptor.AsyncUncaughtExceptionHandler
 import org.springframework.boot.logging.LogLevel

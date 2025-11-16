@@ -1,7 +1,7 @@
 package io.jungseng.gamark.core.support.response
 
-import io.dodn.commerce.core.support.error.ErrorMessage
-import io.dodn.commerce.core.support.error.ErrorType
+import io.jungseng.gamark.core.support.error.ErrorMessage
+import io.jungseng.gamark.core.support.error.ErrorType
 
 data class ApiResponse<T> private constructor(
     val result: ResultType,
