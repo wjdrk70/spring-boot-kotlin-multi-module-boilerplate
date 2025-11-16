@@ -1,11 +1,13 @@
-rootProject.name = "dev-practice-commerce"
+rootProject.name = "kotlin-multimodule-boilerplate"
 
 include(
     "core:core-enum",
     "core:core-api",
+    "core:core-domain",
     "storage:db-core",
     "support:logging",
     "support:monitoring",
+
 )
 
 pluginManagement {
